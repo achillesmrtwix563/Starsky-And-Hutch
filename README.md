@@ -222,4 +222,4 @@ Starsky & Hutch is offered as a complete free version with all features and upda
 Unleash your inner detective and hit the streets with Starsky & Hutch! Download now and embark on thrilling adventures today!
 
 ---
-**Last updated:** 2026-11-07 23:22:50 UTC
+**Last updated:** 2026-11-08 04:08:34 UTC
